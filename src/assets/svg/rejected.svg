@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.768" height="34.752" viewBox="0 0 34.768 34.752">
+  <g id="Group_31360" data-name="Group 31360" transform="translate(-1502.714 -451.772)">
+    <g id="add_5_" data-name="add (5)" transform="translate(1514.051 463.849) rotate(45)">
+      <g id="Group_31298" data-name="Group 31298">
+        <g id="Group_31297" data-name="Group 31297">
+          <path id="Path_48739" data-name="Path 48739" d="M8.017,0a8.017,8.017,0,1,0,8.017,8.017A8.025,8.025,0,0,0,8.017,0Zm0,14.791a6.775,6.775,0,1,1,6.775-6.775A6.783,6.783,0,0,1,8.017,14.791Z" fill="#16161d"/>
+        </g>
+      </g>
+      <g id="Group_31300" data-name="Group 31300" transform="translate(4.291 4.235)">
+        <g id="Group_31299" data-name="Group 31299">
+          <path id="Path_48740" data-name="Path 48740" d="M6.831,3.1H4.347V.621A.621.621,0,1,0,3.1.621V3.1H.621a.621.621,0,1,0,0,1.242H3.1V6.831a.621.621,0,0,0,1.242,0V4.347H6.831a.621.621,0,0,0,0-1.242Z" fill="#16161d"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_48757" data-name="Path 48757" d="M-6893.43,2335.652s-.018-13.189,0-14.274a.945.945,0,0,1,1.017-1.011h13.269a1.086,1.086,0,0,1,.711.318c.319.32,7.4,7.386,7.4,7.386a1.063,1.063,0,0,1,.266.764c.019.551,0,6.817,0,6.817s.016,13.45,0,13.48c.057,1.474-1.529,1.33-1.529,1.33l-21.436-.053" transform="translate(8407.488 -1867.842)" fill="none" stroke="#16161d" stroke-width="1.5"/>
+    <path id="Path_48758" data-name="Path 48758" d="M-6787.359,2320.365v7.163s-.177.871.872.889,7.2,0,7.2,0" transform="translate(8315.972 -1867.842)" fill="none" stroke="#16161d" stroke-width="1.5"/>
+    <line id="Line_146" data-name="Line 146" x2="14.506" transform="translate(1518.744 465.303)" fill="none" stroke="#16161d" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_147" data-name="Line 147" x2="12.8" transform="translate(1520.451 471.276)" fill="none" stroke="#16161d" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_148" data-name="Line 148" x2="11.946" transform="translate(1522.157 476.396)" fill="none" stroke="#16161d" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>
